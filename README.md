@@ -1,6 +1,6 @@
 ## Mealy Machine
-![Mealy Machine](Mealy.png)
+![Mealy Machine](Mealy.jpg)
 
 
 ## Converted Moore Machine
-![Moore Machine](Moore.png)
+![Moore Machine](Moore.jpg)
